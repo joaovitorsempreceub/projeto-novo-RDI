@@ -1,0 +1,31 @@
+# Núcleo do projeto
+pandas>=1.5
+numpy
+pyarrow
+sidrapy
+requests
+tqdm
+python-slugify
+
+# Robustez da pipeline
+tenacity
+colorama
+python-dotenv
+rich
+
+# Visualizações e estatísticas
+matplotlib
+seaborn
+scikit-learn
+
+# Utilidades para dados e validações
+pycountry
+openpyxl
+
+# Dependências indiretas (opcionais, garantem compatibilidade)
+charset-normalizer
+urllib3
+idna
+certifi
+rapidfuzz
+python-json-logger
